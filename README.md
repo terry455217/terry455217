@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Terry</h1>
+<h1 align="left">Hi 👋, 我TERRY啦!</h1>
 <h3 align="center">一個只想每天躺著耍廢什麼都會一點的全端工程師</h3>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" height="30" width="40" /></a>
