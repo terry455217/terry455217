@@ -1,4 +1,4 @@
-<h1 align="left">Hi👋, 我TERRY啦</h1>
+<h1 align="left">Hi! 我TERRY啦!</h1>
 <h3 align="left">一個只想每天躺著耍廢什麼都會一點的全端工程師同時也是系統分析師<h3>
 
 <h3 align="left">技能 - Skills</h3>
