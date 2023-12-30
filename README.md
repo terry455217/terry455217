@@ -1,4 +1,4 @@
-## Hi ! 我 TERRY
+## Hi ! 我TERRY
 
 <p align="center">
   ✨ 一個只想每天躺著耍廢啥咪都會一點的雜學軟體工程師 ✨
