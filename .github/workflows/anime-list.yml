@@ -1,0 +1,26 @@
+name: Update anime list to README
+
+on:
+  push:
+  schedule:
+    - cron: '0 0 * * *'
+
+jobs:
+  anime_list:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+
+      - name: Update anime list
+        uses: ycs77/readme-anime-list@main
+        with:
+          target: 'README.md'
+          template: 'template/README-eta.md'
+          bangumi_username: '846116'
+          bangumi_limit: 10
+          user_agent: 'terry455217/terry455217 README'
+
+      - name: Commit
+        uses: EndBug/add-and-commit@v9
+        with:
+          message: 'Update generated README'
