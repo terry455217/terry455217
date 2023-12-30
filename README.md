@@ -16,7 +16,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vue,vite,figma,git,github,php,py,r,dotnet,laravel,vscode,visualstudio,eclipse" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,tailwind,bootstrap,vue,vite,figma,git,github" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,py,r,dotnet,laravel,vscode,visualstudio,eclipse" />
   </a>
 </p>
 
