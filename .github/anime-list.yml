@@ -16,7 +16,7 @@ jobs:
         with:
           target: 'README.md'
           template: 'template/README-eta.md'
-          bangumi_username: 'MasterAwei'
+          bangumi_username: '846116'
           bangumi_limit: 10
           user_agent: 'terry455217/terry455217 README'
 
