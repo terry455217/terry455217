@@ -30,7 +30,7 @@
 
 ### ⭐PROJECTS
 2023 - 
-* 掃條碼轉送流程解決方案
+* 業務轉送流程解決方案
 * 線上辦理委託解決方案
 * ERP系統會計結帳Robotic Process Automation解決方案
   
