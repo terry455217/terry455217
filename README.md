@@ -27,8 +27,20 @@
   </a>
 </p>
 
-### ⭐PORJECTS
-
+### ⭐PROJECTS
+2023 - 
+* 掃條碼轉送流程解決方案
+* 線上辦理委託解決方案
+* ERP系統會計結帳Robotic Process Automation解決方案
+  
+2019 ~ 2023
+* 負責前端網頁與後端商業邏輯設計、開發與維護
+* 具前端與後端串聯經驗及SQL語法能力
+* 營運應用系統研發維運，與供應鏈上下游的企業合作對象進行系統整合
+* 執行應用系統軟體架構及模組設計，協助研發軟體新技術與新工具
+* ETL informatica 開發
+* RPA Power Automate 開發
+ 
 ### ⭐ANIME
 
 ## &#x1f4c8; GitHub Stats
