@@ -12,6 +12,7 @@
 * 同時也是一位 - 資深軟體開發工程師
 * 喜歡看動畫、漫畫，玩遊戲，特別是手機遊戲
 
+
 ### ⭐SKILLS
 
 <p align="center">
@@ -26,6 +27,7 @@
   </a>
 </p>
 
+
 ### ⭐PROJECTS
 2023 - 
 * 掃條碼轉送流程解決方案
@@ -39,7 +41,8 @@
 * 執行應用系統軟體架構及模組設計，協助研發軟體新技術與新工具
 * ETL informatica 開發
 * RPA Power Automate 開發
- 
+
+
 ### ⭐ANIME
 
 ## &#x1f4c8; GitHub Stats
