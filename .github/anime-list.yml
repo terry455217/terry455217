@@ -17,7 +17,7 @@ jobs:
           target: 'README.md'
           template: 'template/README-eta.md'
           bangumi_username: '846116'
-          bangumi_limit: 10
+          bangumi_limit: 2
           user_agent: 'terry455217/terry455217 README'
 
       - name: Commit
