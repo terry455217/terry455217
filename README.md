@@ -6,13 +6,13 @@
 
 ---
 
-### ⭐自我介紹 - About
+### ⭐ABOUT
 
 * 目前在財團法人台灣商品檢測驗證中心擔任系統分析師
 * 也是資深軟體開發工程師
 * 喜歡看動畫、漫畫，玩遊戲，特別是手機遊戲
 
-### ⭐技能 - Skills
+### ⭐SKILLS
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -26,4 +26,4 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry455217&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
 
-### ⭐追番 - Anime
+### ⭐ANIME
