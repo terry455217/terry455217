@@ -32,6 +32,7 @@
   2023 - 
   * 業務轉送流程解決方案
   * 線上辦理委託解決方案
+  * EXCEL VBA 報告自動化
   * ERP系統會計結帳Robotic Process Automation解決方案
     
   2019 ~ 2023
