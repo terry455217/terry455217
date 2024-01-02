@@ -44,9 +44,13 @@
   * RPA Power Automate 開發
 
 ### ⭐ANIME
-| 圖片 | 番劇 | 圖片 | 番劇 |
-| --- | --- | --- | --- |
-<% it.data.forEach(function (anime) { %><%= anime.index % 2 == 1 ? '|' : '' %> <img src="<%= anime.subject.images.grid %>" width="48"> | <%= anime.subject.name_cn %> |<%= anime.index % 2 == 0 ? '\n' : '' %><% }) %><%= it.data.length % 2 == 0 ? '' : ' | |\n' %>
+
+| 圖片 | 番劇 |
+| --- | --- |
+<% it.data.forEach(function (anime) { %>
+| ![](<%= anime.subject.images.grid %>) | <%= anime.subject.name_cn %> |
+| <img src="<%= anime.subject.images.grid %>" width="48"> | <%= anime.subject.name_cn %> |
+<% }) %>
 
 <br/><br/>
 
