@@ -2,9 +2,10 @@
 
 <p align="center">
   ✨ 一個只想每天躺著耍廢 ✨
+</p>
+<p align="center">
   ✨ 啥都會一點的雜學軟體工程師 ✨
 </p>
-
 
 ### ⭐ABOUT
 
