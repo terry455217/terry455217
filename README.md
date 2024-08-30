@@ -54,12 +54,10 @@
   * ETL informatica 開發
   * RPA Power Automate 開發
 
-<p align="center">
   <a href="https://github.com/terry455217/terry455217">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=terry455217&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
   </a>
-</p>
-
+  
 ### ⭐追番 - Anime
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
