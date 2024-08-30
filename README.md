@@ -60,3 +60,8 @@
   </a>
 </p>
 
+### ⭐追番 - Anime
+
+| 圖片 | 番劇 | 圖片 | 番劇 |
+| --- | --- | --- | --- |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/a7/73/413741_39Urq.jpg" width="48"> | 16bit 的感動 ANOTHER LAYER | <img src="https://lain.bgm.tv/r/100/pic/cover/l/47/8a/326867_iZQxQ.jpg" width="48"> | 哥布林杀手 第二季 |
