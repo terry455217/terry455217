@@ -76,5 +76,5 @@
 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/e4/dc/464376_NsZRw.jpg" width="48"> | 败犬女主太多了！ | <img src="https://lain.bgm.tv/r/100/pic/cover/l/e2/f4/474906_z0h44.jpg" width="48"> | 小市民系列 |
 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/00/ae/444046_9b5bM.jpg" width="48"> | 异世界自杀小队 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/53/13/410346_z8j5n.jpg" width="48"> | 2.5次元的诱惑 |
 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48"> | 不时轻声地以俄语遮羞的邻座艾莉同学 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/ce/50/482776_G98Y9.jpg" width="48"> | 我的妻子没有感情 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/6a/45/427059_yWedw.jpg" width="48"> | 大叔新人冒险者被最强小队拼死锻炼后无敌了。 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/6d/e5/479477_19844.jpg" width="48"> | 杖与剑的魔剑谭 |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/6a/45/427059_1V5vV.jpg" width="48"> | 大叔新人冒险者被最强小队拼死锻炼后无敌了。 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/6d/e5/479477_19844.jpg" width="48"> | 杖与剑的魔剑谭 |
 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/fb/28/416320_Iprrq.jpg" width="48"> | 身为VTuber的我因为忘记关台而成了传说 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/e8/2c/349093_DJuws.jpg" width="48"> | 妖精的尾巴 百年任务 |
