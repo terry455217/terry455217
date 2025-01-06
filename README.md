@@ -1,4 +1,4 @@
-## Hi ! 我 TERRY ! 一個在玄關寫coode的工程師
+## Hi ! 我 TERRY !
 
 <p align="center">
   ✨ 一個只想每天躺著耍廢 ✨
