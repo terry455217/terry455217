@@ -73,8 +73,7 @@
 
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/e4/dc/464376_NsZRw.jpg" width="48"> | 败犬女主太多了！ | <img src="https://lain.bgm.tv/r/100/pic/cover/l/e2/f4/474906_z0h44.jpg" width="48"> | 小市民系列 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/00/ae/444046_9b5bM.jpg" width="48"> | 异世界自杀小队 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/53/13/410346_MmQCm.jpg" width="48"> | 2.5次元的诱惑 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/7c/8e/424883_BpzVb.jpg" width="48"> | 不时轻声地以俄语遮羞的邻座艾莉同学 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/ce/50/482776_G98Y9.jpg" width="48"> | 我的妻子没有感情 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/6a/45/427059_1V5vV.jpg" width="48"> | 大叔新人冒险者被最强小队拼死锻炼后无敌了。 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/6d/e5/479477_19844.jpg" width="48"> | 杖与剑的魔剑谭 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/fb/28/416320_Iprrq.jpg" width="48"> | 身为VTuber的我因为忘记关台而成了传说 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/e8/2c/349093_DJuws.jpg" width="48"> | 妖精的尾巴 百年任务 |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/31/47/504591_rdE5n.jpg" width="48"> | 上班族去了异世界后成了四天王 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/ab/e5/460306_s7Y8n.jpg" width="48"> | 青之箱 |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/0e/9b/485469_qv0QM.jpg" width="48"> | S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/f0/51/443831_Zkz9E.jpg" width="48"> | Fate/strange Fake |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/d8/5d/487630_5YZQ6.jpg" width="48"> | 我独自升级 第二季 -起于暗影- | <img src="https://lain.bgm.tv/r/100/pic/cover/l/f3/19/488177_9nFrY.jpg" width="48"> | 天久鹰央的推理病历表 |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_ZH5tU.jpg" width="48"> | BanG Dream! Ave Mujica | | |
