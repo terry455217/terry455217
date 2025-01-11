@@ -15,7 +15,8 @@
 
 ### ⭐ABOUT
 
-* 系統分析師/資深軟體開發工程師 (8y+)
+* 目前在財團法人台灣商品檢測驗證中心擔任系統分析師
+* 同時也是位資深軟體開發工程師 (5y+)
 * 協助公司進行數位化轉型，導入各項新技術與發展服務
 * 喜歡看動畫、漫畫，玩遊戲，特別是手機遊戲
 
@@ -73,6 +74,5 @@
 | 圖片 | 番劇 | 圖片 | 番劇 |
 | --- | --- | --- | --- |
 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/31/47/504591_rdE5n.jpg" width="48"> | 上班族去了异世界后成了四天王 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/ab/e5/460306_s7Y8n.jpg" width="48"> | 青之箱 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/0e/9b/485469_qv0QM.jpg" width="48"> | S级怪兽《贝希摩斯》被误认成小猫，成为精灵女孩的骑士(宠物)一起生活 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/f0/51/443831_Zkz9E.jpg" width="48"> | Fate/strange Fake |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/d8/5d/487630_5YZQ6.jpg" width="48"> | 我独自升级 第二季 -起于暗影- | <img src="https://lain.bgm.tv/r/100/pic/cover/l/f3/19/488177_9nFrY.jpg" width="48"> | 天久鹰央的推理病历表 |
-| <img src="https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_ZH5tU.jpg" width="48"> | BanG Dream! Ave Mujica | | |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/f0/51/443831_Zkz9E.jpg" width="48"> | Fate/strange Fake | <img src="https://lain.bgm.tv/r/100/pic/cover/l/d8/5d/487630_5YZQ6.jpg" width="48"> | 我独自升级 第二季 -起于暗影- |
+| <img src="https://lain.bgm.tv/r/100/pic/cover/l/f3/19/488177_9nFrY.jpg" width="48"> | 天久鹰央的推理病历表 | <img src="https://lain.bgm.tv/r/100/pic/cover/l/77/c3/454684_ZH5tU.jpg" width="48"> | BanG Dream! Ave Mujica |
